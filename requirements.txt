@@ -1,6 +1,9 @@
-flask
-scikit-learn
+streamlit
+requests
 pandas
 numpy
+scikit-learn
+SpeechRecognition
+pydub
+matplotlib
 nltk
-gunicorn
