@@ -7,7 +7,7 @@ import io
 import requests
 
 # ---------------- API CONFIG ----------------
-API_URL = "https://cerevra.onrender.com/predict"
+API_URL = "https://innerpulse.onrender.com/predict"
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(page_title="Mental Health Detection", layout="wide")
